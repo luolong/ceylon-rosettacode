@@ -4,7 +4,7 @@ This is a repository of modules implementing [Rosettacode][1] tasks in [Ceylon l
 
 
 * [Balanced brackets](source/rosettacode/balancedbrackets/)
-* [Playing cards](source/rosettacode.palyingcards/)
+* [Playing cards](source/rosettacode/palyingcards)
 
 [1]: http://rosettacode.org/wiki/Rosetta_Code
 [2]: http://ceylon-lang.org
