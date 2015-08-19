@@ -7,7 +7,7 @@ shared void run() {
            ");
     
     deck = deck.shuffle();
-    print("Shuffeled deck (``deck.size`` cards): ``deck``
+    print("Shuffled deck (``deck.size`` cards): ``deck``
            ");
     
     print("Deal three hands: ");
